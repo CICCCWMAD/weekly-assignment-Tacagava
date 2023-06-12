@@ -1,4 +1,4 @@
-INSERT INTO instructors (id, name, is_active, start_date, end_date) VALUES (1, 'Helmer Rodriguez', true, '2018-02-12T08:00:00.000Z', null);
+\i\INSERT INTO instructors (id, name, is_active, start_date, end_date) VALUES (1, 'Helmer Rodriguez', true, '2018-02-12T08:00:00.000Z', null);
 INSERT INTO instructors (id, name, is_active, start_date, end_date) VALUES (2, 'Rosalyn Raynor', true, '2018-02-12T08:00:00.000Z', null);
 INSERT INTO instructors (id, name, is_active, start_date, end_date) VALUES (3, 'Roberto Towne', false, '2018-02-12T08:00:00.000Z', '2018-08-11T07:00:00.000Z');
 INSERT INTO instructors (id, name, is_active, start_date, end_date) VALUES (4, 'Waylon Boehm', true, '2018-03-12T07:00:00.000Z', null);
